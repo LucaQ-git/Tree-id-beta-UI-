@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+div_top
+{
+  position: absolute;  
+  width: 360px;
+  height: 585px;
+  left: 0px;
+  top: -1px;
+
+  background: #2C1C43; 
+}
